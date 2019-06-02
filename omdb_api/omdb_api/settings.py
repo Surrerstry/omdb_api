@@ -25,7 +25,7 @@ SECRET_KEY = 'i!dt%zx0#@idwet0@o*9t=$x&3=6c&4#vl8%wi87%m2^a3#7+%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mighty-caverns-23460.herokuapp.com']
 
 
 # Application definition
