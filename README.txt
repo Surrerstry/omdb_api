@@ -1,10 +1,3 @@
-
-1.
-REQUIREMENTS:
-
-django 2.2
-djangorestframework 3.9.2
-
 --- DESCRIPTION ---
 
 2. Some unittest are available: python3 manage.py test
